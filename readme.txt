@@ -1,1 +1,3 @@
-thank you for coming
+This is a team website.
+They specialize in web development
+
